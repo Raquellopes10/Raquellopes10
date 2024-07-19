@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou a Raquel</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div>
 <a href="https://github.com/Raquellopes10">
